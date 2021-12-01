@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Societal Studies (BSc), Roskilde University, 2019. GPA: 3.94 (Danish 10,8)
+* M.S. in Public Administration (MSc), Roskilde University (current). Current GPA: 4.00 (Danish 11,88)
 
 Work experience
 ======
