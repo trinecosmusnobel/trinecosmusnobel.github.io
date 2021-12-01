@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tredjesemesterprojekt"
+excerpt: "Den usynlige ulighed - En multipel korrespondenceanalyse af distinktioner
+i samfundsvidenskabelige universitetsstuderendes
+strategi og praksis på uddannelsen"
 collection: portfolio
 ---
 
