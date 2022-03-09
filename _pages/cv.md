@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-======
+## Uddannelse
+
 * BSc.,/samfundsvidenskabelig bachelor i socialvidenskab, Roskilde Universitet, 2019. Vægtet gennemsnit 10,8 (GPA: 3.94). Udvalgte fag:
   * Mixed methods i samfundsvidenskaberne
   * Ulighed, marginalisering og stigmatisering
@@ -24,15 +24,21 @@ redirect_from:
   * Socialvidenskabelig og politisk teori som samfundskritik
   * Gender as method
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Arbejdserfaring
 
-Skills
-======
+* 2021-nu: Forskningsassistent ved Thomas P. Boje, Roskilde Universitet
+* 2021-nu: Forskningsassistent ved Silas Harrebye & Christoph Ellersgaard, Roskilde Universitet
+* 2021-nu: Forskningsassistent ved Anders Ejrnæs & Tine Rostgaard, Roskilde Universitet
+* 2021-nu: Studentervejleder i brug af kvantitativ metode, Roskilde Universitet
+* 2020-2021: Instruktor i kvantitativ metode, kandidat i sociale interventionsstudier, Roskilde Universitet
+* 2020: Forskningsassistent ved Anders Ejrnæs & Bjørn Thomassen, Roskilde Universitet
+* 2019-2022: Forksningsassistent ved Peter Nedergaard, Københavns Universitet
+* 2019: Studentermedhjælper ved Carina Saxlund Bischoff, Roskilde Universitet
+* 2019-2020: Forskningsassistent ved Silas Harrebye og Thomas Olesen
+* 2018-2020: Forskningsassistent ved 
+
+## Færdigheder
+
 * R, herunder:
   * ggplot2 og dplyR
   * HTML-Web scraping i Rvest
