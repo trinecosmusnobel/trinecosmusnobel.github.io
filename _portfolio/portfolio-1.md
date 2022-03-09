@@ -6,4 +6,6 @@ strategi og praksis på uddannelsen"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Dette projekts bidrag er et bud på, hvordan man kan have øje for denne ulighed, der eksisterer, efter at studerende har fået adgang til den højeste uddannelsesinstituion i Danmark. Med en feltanalytisk tilgang undersøger jeg, hvordan studerende differentierer på videregående uddannelser. Den væsentligste konklusion er, at der kan ses en stor ulighed i trivsel på baggrund af netop akademisk kapital og graden af arbejdsmarkeds- og praksisorientering. Der kunne således på baggrund af forløbet for den supplementære variabel for trivsel ses en klar forskydning i akademisk kapital, således at de, der har en høj grad af akademisk kapital, er tilbøjelige til at have en bedre trivsel på uddannelsen. Samtidig sker der også en mindre for- skydning på baggrund af graden af arbejdsmarkeds- og praksisorientering.
+
+PDF
