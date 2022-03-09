@@ -46,3 +46,6 @@ redirect_from:
   * Netværksanalyse i ggraph & igraph
   * Korrespondenceanalyse i soc.ca
   * Kvantitativ litteraturanalyse i bibliometrix
+* SPSS
+* Photoshop, InDesign & Illustrator
+* Surveydesign
