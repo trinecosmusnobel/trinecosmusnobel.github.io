@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Societal Studies (BSc), Roskilde University, 2019. GPA: 3.94 (Danish 10,8)
-* M.S. in Public Administration (MSc), Roskilde University (current). Current GPA: 4.00 (Danish 11,88)
+* BSc.,/samfundsvidenskabelig bachelor i socialvidenskab, Roskilde Universitet, 2019. Vægtet gennemsnit 10,8 (GPA: 3.94)
+* MSc./cand.scient.adm i forvaltning & politik, Roskilde Universitet, 2022. Forløbigt vægtet gennemsnit: 11,88 (GPA: 4.00)
 
 Work experience
 ======
