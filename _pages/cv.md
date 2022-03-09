@@ -51,6 +51,8 @@ redirect_from:
 * SPSS
 * Photoshop, InDesign & Illustrator
 * Surveydesign
+* LaTeX
+* SurveyXact
 
 ## Frivillig erfaring
 
