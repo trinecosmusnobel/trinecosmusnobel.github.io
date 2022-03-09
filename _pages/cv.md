@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * BSc.,/samfundsvidenskabelig bachelor i socialvidenskab, Roskilde Universitet, 2019. Vægtet gennemsnit 10,8 (GPA: 3.94). Udvalgte fag:
   * Mixed methods i samfundsvidenskaberne
