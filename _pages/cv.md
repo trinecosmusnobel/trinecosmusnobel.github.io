@@ -59,3 +59,7 @@ redirect_from:
 * 2019-2021: Studenterstudienævnsrepræsentant, Uddannelsesudvalget på RUC
 * 2018-2021: Intitativtager, Epistemologisk Eftermiddag
 * 2016-2017: Bestyrelsesmedlem/repræsentant for fagudvalg, SAMRådet
+
+## Priser
+
+* 2020: Prisopgave i kategorien store opgaver, Selskab for Surveyforskning. [Begrundelse](https://surveyselskab.dk/wp-content/uploads/2021/03/Begrundelse_Den-Dobbelte-Kraenkelse.docx "Begrundelse")
